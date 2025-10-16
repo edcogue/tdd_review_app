@@ -1,0 +1,1 @@
+{"version":3,"file":"moderator.d.ts","sourceRoot":"","sources":["../../src/domain/moderator.ts"],"names":[],"mappings":"AAAA,OAAO,kBAAkB,CAAC;AAG1B,qBACa,SAAS;IACpB,OAAO,CAAC,QAAQ,CAAC,cAAc,CAoC7B;IACF,OAAO,CAAC,QAAQ,CAAC,SAAS,CAAM;IAEhC,eAAe,CAAC,OAAO,EAAE,MAAM,GAAG,IAAI;CAevC"}
